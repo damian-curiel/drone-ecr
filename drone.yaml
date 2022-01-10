@@ -3,7 +3,7 @@
 #Author: Ravi
 
 kind: pipeline
-type: kubernetes
+type: docker
 name: default
 
 steps:
